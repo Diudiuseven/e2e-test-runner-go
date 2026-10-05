@@ -1,0 +1,6 @@
+{
+  "name": "child-hang",
+  "description": "forks a long-lived grandchild then hangs; group kill must reap both",
+  "command": ["./run.sh"],
+  "timeout": "1s"
+}

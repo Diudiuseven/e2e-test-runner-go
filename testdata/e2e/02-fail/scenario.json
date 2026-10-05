@@ -1,0 +1,5 @@
+{
+  "name": "fail-always",
+  "description": "always exits non-zero",
+  "command": ["./run.sh"]
+}

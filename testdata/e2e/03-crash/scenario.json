@@ -1,0 +1,5 @@
+{
+  "name": "crash-signal",
+  "description": "kills itself with SIGKILL",
+  "command": ["./run.sh"]
+}

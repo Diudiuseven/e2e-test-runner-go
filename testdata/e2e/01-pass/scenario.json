@@ -1,0 +1,6 @@
+{
+  "name": "pass-ok",
+  "description": "trivially passes",
+  "command": ["./run.sh"],
+  "tags": ["smoke"]
+}

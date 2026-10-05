@@ -1,0 +1,7 @@
+{
+  "name": "flaky-pass",
+  "description": "fails on the first attempt, passes after retry",
+  "command": ["./run.sh"],
+  "retries": 2,
+  "idempotent": true
+}

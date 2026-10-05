@@ -1,0 +1,6 @@
+{
+  "name": "hang-forever",
+  "description": "dead loop; must be terminated by the per-scenario timeout",
+  "command": ["./run.sh"],
+  "timeout": "1s"
+}

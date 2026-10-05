@@ -1,0 +1,6 @@
+{
+  "name": "slow-ok",
+  "description": "passes slowly; used for deadline/cancel demos",
+  "command": ["./run.sh"],
+  "tags": ["slow"]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "flaky-never-recovers",
+  "description": "retried but always fails; counted once",
+  "command": ["./run.sh"],
+  "retries": 1,
+  "idempotent": true
+}

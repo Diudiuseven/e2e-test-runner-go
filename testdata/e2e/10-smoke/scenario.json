@@ -1,0 +1,6 @@
+{
+  "name": "smoke-extra",
+  "description": "another smoke tagged scenario",
+  "command": ["./run.sh"],
+  "tags": ["smoke"]
+}

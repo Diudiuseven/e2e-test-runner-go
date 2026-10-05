@@ -1,0 +1,6 @@
+{
+  "name": "non-idempotent-fail",
+  "description": "has side effects: retries must be suppressed",
+  "command": ["./run.sh"],
+  "retries": 3
+}

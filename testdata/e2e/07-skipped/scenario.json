@@ -1,0 +1,7 @@
+{
+  "name": "skip-manual",
+  "description": "explicitly skipped in the manifest",
+  "command": ["./skip.sh"],
+  "skip": true,
+  "skip_reason": "tracked in ticket E2E-42"
+}

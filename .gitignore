@@ -1,0 +1,4 @@
+# local build output
+/e2e-runner
+# atomic-write temp reports
+/.e2e-report-*.json
