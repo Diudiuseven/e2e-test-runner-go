@@ -1,0 +1,1 @@
+{"name": "skip-me", "command": "sh run.sh", "skip": true, "tags": ["fast"]}

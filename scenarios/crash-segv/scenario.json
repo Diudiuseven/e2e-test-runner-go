@@ -1,0 +1,1 @@
+{"name": "crash-segv", "command": "sh run.sh", "timeout": "5s", "tags": ["fast"]}

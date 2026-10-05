@@ -1,0 +1,1 @@
+{"name": "flaky-counter", "command": "sh run.sh", "timeout": "5s", "retries": 2, "tags": ["fast"]}

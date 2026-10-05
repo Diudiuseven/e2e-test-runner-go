@@ -1,0 +1,1 @@
+{"name": "hang-forever", "command": "sh run.sh", "timeout": "2s", "tags": ["slow"]}
